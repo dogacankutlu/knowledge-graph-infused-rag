@@ -3,6 +3,11 @@
 CSE 474 / 5074 Social Network Analysis term project. Implements the KG-Infused
 RAG framework (Wu et al., 2025) over Wikidata5M, focused on the Türkiye domain.
 
+## AI assistance
+This project was developed for CSE 474/5074 (Social Network Analysis), where
+AI tools were permitted. I built it with the help of Claude and
+reviewed, tested and adapted the code myself.
+
 ## What this implements
 
 ### Four interchangeable RAG pipelines (assignment §6 ablation)
